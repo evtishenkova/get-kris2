@@ -1,3 +1,4 @@
 cout<<"Hello world";
 cout<<"Hello EVERYBODY";
 cout<<"hello";
+cout<<"hello my friend";
